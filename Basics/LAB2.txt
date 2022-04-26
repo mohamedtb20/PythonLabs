@@ -1,0 +1,4 @@
+Using formatted writing, display in a single line the variables a, b and c whose
+values ​​are respectively the string "Salut", the integer 102 and the float
+10.318.
+The variable c will be displayed on the screen with 1, 2 then 3 decimal places using .format()

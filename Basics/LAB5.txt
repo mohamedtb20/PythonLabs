@@ -1,0 +1,6 @@
+d = {'surname': 'Dupuis', 'first name': 'Jacque', 'age': 30}
+-Correct the error in the first name, the correct value is 'Jacques'.
+-Display the list of dictionary keys.
+-Display the list of dictionary values.
+-Display the list of dictionary key/value pairs.
+-Write the sentence "Jacques Dupuis a 30 years old"

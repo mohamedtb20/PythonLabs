@@ -1,0 +1,7 @@
+Create a weekly list containing the 7 days of the week.
+
+1.From this list, how do you recover only the first 5 days of the
+week on the one hand, and those of the weekend on the other hand? Use the subscript for this.
+2.Find another way to achieve the same result (using another hint).
+3.Find two ways to access the last day of the week.
+4.Reverse the days of the week in one command.

@@ -1,0 +1,9 @@
+Try to predict the outcome of each of the following statements, then check it in
+the Python interpreter:
+
+(7+2)**3, "Ensao" * 4, "Ensao" + 3, ("Tic"+"Tac") * 2, ("Da"*4) / 2, 7 / 2, 7 // 2, 7 % 2
+str(4) * int("3")
+int("3") + float("3.2")
+str(3) * float("3.2")
+str(3/4) * 2
+
