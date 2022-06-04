@@ -1,0 +1,4 @@
+Create a weekly list containing the 7 days of the week.
+Write a series of statements displaying the days of the week (using a for loop),
+as well as another set of instructions displaying the days of the weekend (using a
+while loop)

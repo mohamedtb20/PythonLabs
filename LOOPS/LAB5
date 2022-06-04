@@ -1,0 +1,5 @@
+Build a week list containing the names of the seven days of the week.
+Using a loop, write each day of the week along with the following messages:
+‘At work’ if it is Monday to Thursday;
+‘It’s Friday’ if it is Friday;
+‘It’s the weekend’ if it is Saturday or Sunday.
