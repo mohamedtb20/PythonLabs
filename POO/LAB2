@@ -1,0 +1,5 @@
+Define a Rectangle class with a constructor giving values (length and width)
+default and a name = "rectangle" attribute, a display method and an area method
+returning the surface of an instance.
+Define a Square class inheriting from Rectangle and which overrides the instance attribute: name =
+"square". In the main program, instantiate a Rectangle and a Square and display them.

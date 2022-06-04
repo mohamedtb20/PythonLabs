@@ -1,0 +1,8 @@
+Define a class Point with a constructor providing the default coordinates of a
+point of the plane (for example: x = 0.0 and y = 0.0).
+Define a Segment class whose constructor has four parameters: two for
+the origin and two for the extremity. This constructor defines two attributes: orig and extrem,
+instances of the Point class. In this way, you design a composite class: The
+Segment class is composed of two instances of Point class.
+Add a display method. Write a test script that displays an instance of Segment
+initialized by the values 1, 2, 3 and 4.

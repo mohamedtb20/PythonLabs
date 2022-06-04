@@ -1,0 +1,9 @@
+Define a Rectangle class. Then complete the main program so that the script:
+- creates a rectangle instance of the Rectangle class;
+- displays width, length and color instance attributes;
+- calculates and displays the rectangle area;
+- displays an empty line;
+- changes the rectangle into a square with sides of 30 m;
+- calculates and displays the area of this square;
+- create another rectangle2 instance with the dimensions and color you want and
+which displays the attributes and area of this new rectangle.

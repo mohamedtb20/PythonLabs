@@ -1,0 +1,5 @@
+Define a Vector2d class with a constructor providing default coordinates
+of a vector (for example: x = 0 and y = 0). Instantiate and display a Vector2d without
+parameter and a Vector2d with its two parameters.
+Add a display method and an overload method of adding two vectors.
+Instantiate two Vector2d, display them and show their sum

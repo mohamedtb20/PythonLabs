@@ -1,0 +1,7 @@
+Define a class CasNormal containing a method someMethod that displays "normal".
+Define a class CaseSpecial containing a method someMethod which displays "special".
+Finally define the function caseThatSuits with a parameter isNormal initialized by default to
+True. If the parameter is checked, the function body returns an instance of the class
+CasNormal, otherwise it returns an instance of the CasSpecial class.
+In the main program, create the instance you want, then check its type by
+calling the method someMethod on it.
