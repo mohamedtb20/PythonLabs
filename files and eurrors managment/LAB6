@@ -1,0 +1,2 @@
+Use an exception to calculate, in a loop moving from -3 to 3 inclusive, the value of
+sin(x)/x

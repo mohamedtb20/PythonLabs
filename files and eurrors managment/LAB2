@@ -1,0 +1,4 @@
+Write a program that lists all the folders in the ‘C:/Windows’ directory.
+Using the getlogin() method, write a program that performs the same operations
+for the user's Desktop directory.
+Use an exception if the folder or path cannot be found.
