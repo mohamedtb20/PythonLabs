@@ -1,0 +1,4 @@
+Write a Dictionary function with a “variable-length dictionary” argument,
+and which displays its argument.
+In the main program, define a dictionary, then use the call syntax at the
+function that unpacks the dictionary. Display the result.

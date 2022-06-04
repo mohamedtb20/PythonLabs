@@ -1,0 +1,4 @@
+Write a cube function that returns the cube of its argument.
+Write a volumeSphere function that calculates the volume of a sphere of radius r provided by
+argument and which uses the cube function.
+Test the volumeSphere function by a call in the main program

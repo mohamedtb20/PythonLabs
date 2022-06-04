@@ -1,0 +1,3 @@
+Write another sum function with three arguments, which returns their sum.
+In the main program, define a tuple of three numbers, then use the syntax
+call to the function that unpacks the tuple. Display the result.

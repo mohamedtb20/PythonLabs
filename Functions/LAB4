@@ -1,0 +1,3 @@
+Write a sum function with a “variable length tuple” argument that calculates the
+sum of the numbers contained in the tuple.
+Test this function by calls with different tuples of integers or floats
